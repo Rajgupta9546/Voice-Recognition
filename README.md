@@ -1,0 +1,1 @@
+Voice recognition features allow users to manage data through spoken commands, making tasks like adding, deleting, or editing marks faster and hands-free. When a user speaks, the system converts their voice into text, understands keywords, and performs actions accordingly.
